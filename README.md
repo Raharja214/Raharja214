@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raharja214
+- 👋 Hi, I’m Raharja Dui Putra Sutedjo & you can call me RDP
 - 👀 I’m interested in UI & UX Designer
 - 🌱 I’m currently learning Python & C/C++
 
